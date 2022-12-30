@@ -21,8 +21,7 @@ class Kubus{
         double volume(){
             return sisi * sisi * sisi;
         }
-
-        
+    
 };
 
 int main(){
